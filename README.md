@@ -3,6 +3,7 @@
 AI-powered code review assistant for frontend developers.
 
 This project is a frontend tool that lets users paste code into an editor, choose a review mode, and receive structured feedback focused on code quality and developer experience.
+<img width="1719" height="877" alt="image" src="https://github.com/user-attachments/assets/01f96346-b765-4d84-aa80-861bb853614b" />
 
 ## Features
 
